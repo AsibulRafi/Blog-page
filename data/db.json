@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Written Page",
+      "body": "I create this page for the all the things that I can create",
+      "author": "rafi",
+      "id": 1
+    }
+  ]
+}
